@@ -1,2 +1,2 @@
 # mc-map
-A map rendered using Mapcrater
+A minecraft map rendered using Mapcrater
